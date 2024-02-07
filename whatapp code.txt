@@ -9,3 +9,5 @@ Author:Baskar S
 3.Whatapp background colour.
 
 4.Edit profile photo.
+
+5. Hiding the profile photo.
