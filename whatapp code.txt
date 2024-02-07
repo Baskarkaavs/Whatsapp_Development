@@ -1,0 +1,11 @@
+This is a whatsapp code:
+
+Author:Baskar S
+
+1. Whatapp theme
+
+2. Hiding the last seen
+
+3.Whatapp background colour.
+
+4.Edit profile photo.
