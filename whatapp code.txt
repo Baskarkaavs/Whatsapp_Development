@@ -11,3 +11,7 @@ Author:Baskar S
 4.Edit profile photo.
 
 5. Hiding the profile photo.
+
+6. Adding the audio call feature.
+
+7. Adding the video call feature.
